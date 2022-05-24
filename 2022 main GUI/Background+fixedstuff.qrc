@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Background+fixedstuff.png</file>
+  </qresource>
+  <qresource prefix="vision_tab">
+    <file>vision_tab.png</file>
+  </qresource>
+</RCC>

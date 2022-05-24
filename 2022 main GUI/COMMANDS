@@ -1,0 +1,6 @@
+gui:
+pyuic5 ROV_GUI.ui -o ROV22_GUI.py
+
+background:
+ pyrcc5 resource.qrc -o resource_rc.py
+
